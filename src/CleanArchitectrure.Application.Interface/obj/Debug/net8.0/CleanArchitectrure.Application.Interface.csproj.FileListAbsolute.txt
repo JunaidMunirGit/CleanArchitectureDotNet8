@@ -1,0 +1,15 @@
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\bin\Debug\net8.0\CleanArchitectrure.Application.Interface.deps.json
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\bin\Debug\net8.0\CleanArchitectrure.Application.Interface.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\bin\Debug\net8.0\CleanArchitectrure.Application.Interface.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\bin\Debug\net8.0\CleanArchitectrure.Domain.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\bin\Debug\net8.0\CleanArchitectrure.Domain.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.csproj.AssemblyReference.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.AssemblyInfoInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.AssemblyInfo.cs
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.csproj.CoreCompileInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArc.FD7C4D2B.Up2Date
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\refint\CleanArchitectrure.Application.Interface.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\CleanArchitectrure.Application.Interface.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Interface\obj\Debug\net8.0\ref\CleanArchitectrure.Application.Interface.dll

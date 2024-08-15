@@ -1,0 +1,12 @@
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.AssemblyInfoInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.AssemblyInfo.cs
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.csproj.CoreCompileInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\bin\Debug\net8.0\CleanArchitectrure.Domain.deps.json
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\bin\Debug\net8.0\CleanArchitectrure.Domain.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\bin\Debug\net8.0\CleanArchitectrure.Domain.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.csproj.AssemblyReference.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\refint\CleanArchitectrure.Domain.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\CleanArchitectrure.Domain.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Domain\obj\Debug\net8.0\ref\CleanArchitectrure.Domain.dll

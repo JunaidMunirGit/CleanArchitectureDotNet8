@@ -1,0 +1,11 @@
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\bin\Debug\net8.0\CleanArchitectrure.Application.Dto.deps.json
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\bin\Debug\net8.0\CleanArchitectrure.Application.Dto.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\bin\Debug\net8.0\CleanArchitectrure.Application.Dto.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.AssemblyInfoInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.AssemblyInfo.cs
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.csproj.CoreCompileInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\refint\CleanArchitectrure.Application.Dto.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\CleanArchitectrure.Application.Dto.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Application.Dto\obj\Debug\net8.0\ref\CleanArchitectrure.Application.Dto.dll

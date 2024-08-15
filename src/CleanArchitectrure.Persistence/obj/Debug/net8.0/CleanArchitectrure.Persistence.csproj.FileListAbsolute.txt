@@ -1,0 +1,17 @@
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Persistence.deps.json
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Persistence.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Persistence.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Application.Interface.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Domain.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Application.Interface.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\bin\Debug\net8.0\CleanArchitectrure.Domain.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.csproj.AssemblyReference.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.AssemblyInfoInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.AssemblyInfo.cs
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArc.AAD3AB4A.Up2Date
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\refint\CleanArchitectrure.Persistence.dll
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\CleanArchitectrure.Persistence.pdb
+C:\Users\junaid.r\Desktop\git projects\CleanArchitectureNet8-master\src\CleanArchitectrure.Persistence\obj\Debug\net8.0\ref\CleanArchitectrure.Persistence.dll
